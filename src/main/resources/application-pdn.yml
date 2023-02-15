@@ -1,4 +1,0 @@
-server:
-  port: 8070
-  servlet:
-    context-path: /platzi-market/api/pdn

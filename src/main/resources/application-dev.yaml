@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /platzi-market/api/dev
+
+spring:
+  datasource:
+    diverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:3306/platzi-market
+    username: postgres
+    password: 1234
+
+
